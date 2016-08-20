@@ -1,0 +1,14 @@
+layout_spectrum: 0.3937868282664567
+typography_spectrum: 0.1408090372569859
+color:
+  brandStrength: 0.8784890347160399
+  lightness: 0.01517767715267837
+  saturation: 0.7069611290935427
+  rhythmicContrast: 0.402029829332605
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+name: Mobilis Pro
